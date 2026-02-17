@@ -2,14 +2,6 @@
 
 <p align="center">
   <b>Building Strong Python Fundamentals | Daily Practice | Problem Solving</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Level-Beginner-green?style=for-the-badge" />
-</p>
-
 ---
 
 <h2>📖 About This Repository</h2>
