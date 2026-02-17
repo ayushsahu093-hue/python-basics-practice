@@ -22,6 +22,7 @@ to build a strong programming foundation.
   <li>🔀 Conditional Statements (if-else)</li>
   <li>🔁 Loops (for, while)</li>
   <li>🛠 Functions</li>
+  <li>🛠 oops in python </li>
   <li>📚 Concept-Based Practice Questions</li>
 </ul>
 
