@@ -23,6 +23,7 @@ to build a strong programming foundation.
   <li>🔁 Loops (for, while)</li>
   <li>🛠 Functions</li>
   <li>🛠 oops in python </li>
+   <li> Numpy - A heart of arrays</li> </li>
   <li>📚 Concept-Based Practice Questions</li>
 </ul>
 
