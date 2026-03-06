@@ -147,3 +147,20 @@ sum_result = add_numbers(num1, num2)
 
 print("Sum is:", sum_result)
 
+
+# Program to check if a number is even or odd using function
+def check_even_odd(number):
+    # % is modulus operator
+    # it returns remainder
+    if number % 2 == 0:
+        return "Even"
+    else:
+        return "Odd"
+
+num = int(input("Enter a number: "))
+
+result = check_even_odd(num)
+
+print("The number is:", result)
+
+
