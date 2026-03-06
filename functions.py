@@ -164,3 +164,25 @@ result = check_even_odd(num)
 print("The number is:", result)
 
 
+# Program to find largest of three numbers using function
+def find_largest(a, b, c):
+
+    # checking conditions
+    if a >= b and a >= c:
+        return a
+    elif b >= a and b >= c:
+        return b
+    else:
+        return c
+
+
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+num3 = int(input("Enter third number: "))
+
+largest = find_largest(num1, num2, num3)
+
+print("Largest number is:", largest)
+
+
+
