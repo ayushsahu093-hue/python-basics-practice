@@ -128,3 +128,22 @@ def student_info(**data):
 
 
 student_info(name="Rahul", age=20, city="Mumbai")
+
+
+# Program to add two numbers using a function
+
+def add_numbers(a, b):
+    # This function takes two numbers as input
+    # and returns their sum
+    result = a + b
+    return result
+
+# taking input from user
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+
+# calling the function
+sum_result = add_numbers(num1, num2)
+
+print("Sum is:", sum_result)
+
