@@ -185,4 +185,66 @@ largest = find_largest(num1, num2, num3)
 print("Largest number is:", largest)
 
 
+# Program to calculate factorial using function
+def factorial(n):
+    # factorial of 5 = 5*4*3*2*1
+
+    result = 1
+
+    for i in range(1, n + 1):
+        result = result * i
+
+    return result
+
+
+num = int(input("Enter a number: "))
+
+fact = factorial(num)
+
+print("Factorial is:", fact)
+
+
+# Program to count vowels using function
+def count_vowels(text):
+
+    vowels = "aeiouAEIOU"
+    count = 0
+
+    # loop through each character
+    for char in text:
+        if char in vowels:
+            count += 1
+
+    return count
+
+
+sentence = input("Enter a sentence: ")
+
+vowel_count = count_vowels(sentence)
+
+print("Number of vowels:", vowel_count)
+
+
+# Program to calculate factorial using function
+def factorial(n):
+    # factorial of 5 = 5*4*3*2*1
+
+    result = 1
+
+    for i in range(1, n + 1):
+        result = result * i
+
+    return result
+
+
+num = int(input("Enter a number: "))
+
+fact = factorial(num)
+
+print("Factorial is:", fact)
+
+
+
+
+
 
